@@ -1,0 +1,47 @@
+name: dpas-testing
+projectId: dpas-testing
+serviceAccount: src/main/resources/dpas-testing-9cff60b0199d.json
+log: /tmp/dpp_test_harness.log
+
+modules:
+#  gcs:
+#    - projectId: dpas-testing
+#      bucketName: test_dpp
+#      filePath: src/main/resources/books.xml
+#      downloadFilePath: books.xml
+#      serviceAccount: src/main/resources/dpas-testing-9cff60b0199d.json
+#
+#  bigquery:
+#    - projectId: dpas-testing
+#      dataset: test_dpp
+#      table: test_yaml
+#      schema:
+#        - column: City
+#          type: STRING
+#        - column: State
+#          type: STRING
+#        - column: Zip
+#          type: STRING
+#        - column: Phone
+#          type: STRING
+#      record: "Austin, TX, 73301, 800-555-1234"
+#      serviceAccount: src/main/resources/dpas-testing-9cff60b0199d.json
+#
+#  pubsub:
+#    - projectId: dpas-testing
+#      topicId: test_topic
+#      subscriptionId: test_topic-sub
+#      message: hello world!
+#      serviceAccount: src/main/resources/dpas-testing-9cff60b0199d.json
+#
+#  spanner:
+#    - projectId: dpas-testing
+#      instanceId: test_instance
+#      configId: regional-us-central1
+#      serviceAccount: src/main/resources/dpas-testing-9cff60b0199d.json
+  DICOM:
+     - projectId: dpas-testing
+       regionId: us-central1
+       datasetId: test_data
+       dicomStoreId: test_store
+       serviceAccount: src/main/resources/dpas-testing-9cff60b0199d.json

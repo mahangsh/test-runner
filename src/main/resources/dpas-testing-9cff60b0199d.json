@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dpas-testing",
+  "private_key_id": "9cff60b0199d2e8e959886acd86f47deb084b1fb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBq2qt70+GtyUf\n4xcMaGkov147CzfURFFsg8+wgg1qyn1apkU6f0OVbffgaJ7cAMCLwcXJHNTo2O6z\nm8K31Yfbxz9LXq/SJW+EutD1mc3cCW4yPQ+QDNr0xZfXJ/fz+K2Jm306Yo57znmW\ndO6EAsGrDNw0V4VM2KUbhU/tECcpLcp/sHz20B0YHScPWts+GHX4hX3GbZ+unjWQ\nNEZxktRmfhUQ6myu9MZIboCNDcEl1HUu5JeAZLKkkhBeUSGFwpJP5CaC5GsjjA05\n9xLOUX1AY5LuQFEIIStpKQlGC03L8Lg4kSzkNS/tkmDolXI17gdsEUBuIjY0IrNE\nrpqFzHt3AgMBAAECggEAQ3hD7H+MDYsdWFwFShHP3N26Zsh0NTNtyGetQbk1Emij\nviJhyMzQTy0l51ybR1rNuYKStIsiU1JL6m+PqPqvX24tC0Vb7FKVZMCujnl8IbV5\nWfAyzUTlPNPfn5mxhKG0V1W/jUkLiW83paZr97p8HOqYhnWdH1X0Qz+wxg5UDkBk\n01aoH+LQodkQaH283sU2lrqAh3kk5ZVDzqEXL2KnlMGKZWLwMbCxKuyuZt0/rdOL\nboTTDUT2cgSF0m4DuUugb23yziSd0JUL6lJvOL4VLGZX1SDAVQF3IFbFeBu+qlRs\nOjpnZm5ZkfRrniZSjP4uHotywukghU2G+NQOW+1NcQKBgQD7zyfi/K8KBKW+kmPs\nHt9Zl2JObKJA4DKOEnNrpVOOzhHHv+6W4cD6EPlLEUhf+WQJeG4iKJVv/IAfQEvB\nRdgAfZ3oF1LkpHtjEfPUtEjXowXacALOlg4OogC6AfZcHhN5LmjYxpFxU4k+SY3r\nSl0UZGADdV8keV9oKHZYyMivMQKBgQDE5I33lEZZvGMpNZba44bBAj/+J+WAsZ0U\nnmweITCZvy7+221jwFqfdGfP1GkOAlELiUAwTlzjwOO1ZkyS+j41DyBZKUIVsKHB\nZsVqeqYvQrIFFLqdRkCoC8Yj2ijnrTw/8jp5hdXXos9ELI+UBi6qCgvVFrknCjKl\n5m1VxRG7JwKBgQDiWrVgNgSi3MqhJLbt6lKcFpkoJj80UlUfoTZf7Z3PIS6agM3Y\nk9cE830lHcQRgf2LBdb6ncC3iiMh9IokksQ4rLLljxHUtoaz589nxSg1rzXzxfy/\n9+NrA/XjPyBWbjLTHATj2JulY5Jbi4MnnxFM423rrfZ4syIwXy8DYHoGAQKBgF8g\nzjbAPP0+N+rBKZG4PHMkUybIv+nd5rb/k906y/B8nogkHEYFucMwyrdvORK7q8yX\nE5xDQD4KA/qw4m5g2Y1pMYfilztDi+OVc+xuNby/zKMH0OIL/1Ex3xmTXhARcvqy\nXe4464iz8NBPd09dbU5abD0YLXzfQHlHS6wU+uwhAoGBAImftmPUCmNPzjHwYVNO\ntd5nROCmZne7XNbaKL2pKGQ1UZRV5TfZ62m9ydthc2ousshOnG4O6VH0W3o3LPvM\nnhPZUyRDcP4Xn4ShOlXAIkUN40bU21/65fxeJ9ShRsEITNW6+4QObGN2alE/RrbU\nzpcLOAfw0L9nIWFkfe3MtfVj\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-harness@dpas-testing.iam.gserviceaccount.com",
+  "client_id": "117617166756228787441",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-harness%40dpas-testing.iam.gserviceaccount.com"
+}
